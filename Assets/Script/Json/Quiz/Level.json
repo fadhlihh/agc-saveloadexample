@@ -1,0 +1,147 @@
+{
+    "LevelPacks": 
+    [
+        {
+            "Name": "Level Pack A",
+            "Levels":
+            [
+                {
+                    "Name": "A-1",
+                    "Sprite": "rose",
+                    "Question": "Warna dari Mawar?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Merah"
+                },
+                {
+                    "Name": "A-2",
+                    "Sprite": "sky",
+                    "Question": "Warna dari Langit?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Biru"
+                },
+                {
+                    "Name": "A-3",
+                    "Sprite": "leaf",
+                    "Question": "Warna dari Daun?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Hijau"
+                },
+                {
+                    "Name": "A-4",
+                    "Sprite": "sun",
+                    "Question": "Warna dari Matahari?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Kuning"
+                },
+                {
+                    "Name": "A-5",
+                    "Sprite": "ocean",
+                    "Question": "Warna dari Laut?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Biru"
+                }
+            ]
+        },
+        {
+            "Name": "Level Pack B",
+            "Levels":
+            [
+                {
+                    "Name": "B-1",
+                    "Sprite": "sky",
+                    "Question": "Warna dari Langit?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Biru"
+                },
+                {
+                    "Name": "B-2",
+                    "Sprite": "leaf",
+                    "Question": "Warna dari Daun?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Hijau"
+                },
+                {
+                    "Name": "B-3",
+                    "Sprite": "sun",
+                    "Question": "Warna dari Matahari?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Kuning"
+                },
+                {
+                    "Name": "B-4",
+                    "Sprite": "ocean",
+                    "Question": "Warna dari Laut?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Biru"
+                },
+                {
+                    "Name": "B-5",
+                    "Sprite": "rose",
+                    "Question": "Warna dari Mawar?",
+                    "Answers":
+                    [
+                        "Merah",
+                        "Biru",
+                        "Hijau",
+                        "Kuning"
+                    ],
+                    "CorrectAnswer": "Merah"
+                }
+            ]
+        }
+    ]
+}

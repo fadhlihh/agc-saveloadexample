@@ -7,7 +7,7 @@ public enum InventoryType
     Armor
 }
 
-[CreateAssetMenu(fileName = "Inventory", menuName = "Inventory", order = 2)]
+[CreateAssetMenu(fileName = "Inventory", menuName = "Inventory/Inventory", order = 2)]
 public class Inventory : ScriptableObject
 {
     public int ID;

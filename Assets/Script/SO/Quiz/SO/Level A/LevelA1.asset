@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a8b925064793084c89fb7c942d5f740, type: 3}
+  m_Name: LevelA1
+  m_EditorClassIdentifier: 
+  Name: A-1
+  SomeObject: {fileID: 2767816918083744108, guid: 9da12649347b73c4ca13a4dd65cc4acb, type: 3}
+  Image: {fileID: 21300000, guid: 54117efbbc49a0e4fb1a4a9168199875, type: 3}
+  Question: Warna dari Mawar?
+  Answers:
+  - Merah
+  - Biru
+  - Hijau
+  - Kuning
+  CorrectAnswer: Merah
